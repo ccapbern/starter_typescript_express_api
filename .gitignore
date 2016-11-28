@@ -1,0 +1,14 @@
+﻿# Modules
+node_modules/
+
+# Build
+dist/
+
+# Coverage
+coverage/
+.nyc_output
+
+# Visual Studio
+*.njsproj
+*.sln
+.vs/
