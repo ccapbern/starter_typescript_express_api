@@ -5,7 +5,7 @@
   "private": false,
   "license": "ISC",
   "scripts": {
-    "start": "node dist/bin/www.js",
+    "start": "node dist/src/bin/www.js",
     "test": "nyc --reporter=lcov --reporter=text mocha --reporter spec dist/test/**/*.test.js"
   },
   "repository": {
